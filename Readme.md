@@ -1,6 +1,7 @@
 # Code Refator 
 
 The goal of this project is to refactor a webpage so that it can meet accesibility standard, the links are functional, and semantic HTML elements can be found.
+https://honorinenn.github.io/Code-Refactor/
 
 ![License badge](https://img.shields.io/badge/license-MIT-builtinModules.svg)
      
